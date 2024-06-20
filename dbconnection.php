@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost'; // or your database host
-$db = 'formsdata'; // your database name
-$user = 'root'; // your database username
-$pass = ''; // your database password
+$db = 'aitldffa_From'; // your database name
+$user = 'aitldffa_NewUser'; // your database username
+$pass = 'Newuser2024!'; // your database password
 
 $con = mysqli_connect($host, $user, $pass, $db);
 
